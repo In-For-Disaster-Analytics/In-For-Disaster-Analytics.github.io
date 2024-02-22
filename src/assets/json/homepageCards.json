@@ -1,0 +1,27 @@
+ [
+    {
+        "Title": "Dynamo",
+        "Description": "Model Integration as a Service! Dynamo allows modelers to leverage HPC to facilitate running models",
+        "ButtonText": "Read more on MINT",
+        "RefType": "internal",
+        "PageRef": "dynamo_page",
+        "BackgroundColor": "bg-primary"
+    },
+    {
+      "Title": "DOLCE Data Management",
+      "Description": "Classification, Categorization & Ingest of Data aand Metadata at scale",
+      "ButtonText": "Explore DOLCE",
+      "RefType": "internal",
+      "PageRef": "dolce_page",
+      "BackgroundColor": "bg-secondary"
+    },
+    {
+      "Title": "Sociotechnical Digital Twins",
+      "Description": "Digital Twins are poised to revolutionize simulations. The REDI team is developing tools that streamline the creation and orchestration of Digital Twins using physics-based information to support participatory processes",
+      "ButtonText": "More on Digital Twins",
+      "RefType": "internal",
+      "PageRef": "digital_twins_page",
+      "BackgroundColor": "bg-indigo-11"
+    }
+]
+
