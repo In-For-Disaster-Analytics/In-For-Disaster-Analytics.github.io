@@ -1,2 +1,2 @@
 # In-For-Disaster-Analytics.github.io
-Webiste for REDI portal
+Website for REDI portal
