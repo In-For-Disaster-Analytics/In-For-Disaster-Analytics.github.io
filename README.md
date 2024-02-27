@@ -51,3 +51,4 @@ See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-
 
 
 **this is a test push line
+** to update the page
