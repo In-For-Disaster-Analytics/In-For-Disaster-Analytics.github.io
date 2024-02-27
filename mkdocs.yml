@@ -1,0 +1,9 @@
+site_name: REDI
+repo_url: https://github.com/In-For-Disaster-Analytics/In-For-Disaster-Analytics.github.io
+site_url: https://In-For-Disaster-Analytics.github.io/content/
+site_description: Website presence for REDI
+site_author: TACC team
+use_directory_urls: false
+
+nav:
+  - Home: index.md
